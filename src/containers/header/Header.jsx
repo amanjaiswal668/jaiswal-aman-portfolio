@@ -2,8 +2,6 @@ import React, { useState, useEffect, useRef } from 'react';
 import './header.css';
 import { useSpring } from '@react-spring/core'
 import { a } from "@react-spring/three"
-import Earth from '../../assets/Earth.fbx';
-
 
 // Three js
 

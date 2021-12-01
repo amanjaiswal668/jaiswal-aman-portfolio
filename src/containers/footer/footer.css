@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
 
-    background: var(--color-footer);
+    background: var(--color-footers);
 }
 
 .gpt3__footer-heading {
