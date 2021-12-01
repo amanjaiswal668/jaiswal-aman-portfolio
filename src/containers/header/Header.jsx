@@ -6,10 +6,7 @@ import { a } from "@react-spring/three"
 // Three js
 
 import { Canvas, useFrame, useThree } from '@react-three/fiber'
-import * as THREE from "three";
 import { OrbitControls, Stars } from '@react-three/drei'
-import { useLoader } from '@react-three/fiber'
-import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader'
 
 
 
@@ -54,10 +51,6 @@ const Boxes = ({ position }) => {
         </a.mesh>
     )
 }
-
-
-
-
 
 
 const Header = () => {
