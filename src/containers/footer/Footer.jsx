@@ -30,6 +30,7 @@ const Footer = () => {
                     </div> */}
 
                     <p align="left">
+                        <a id="image" href="https://github.com/amanjaiswal668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="amanjaiswal668" height="30" width="40" /></a>
                         <a id="image" href="https://codepen.io/amanjaiswal159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amanjaiswal159" height="30" width="40" /></a>
                         <a id="image" href="https://dev.to/amanjaiswal668" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amanjaiswal668" height="30" width="40" /></a>
                         <a id="image" href="https://twitter.com/amanjaiswal159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanjaiswal159" height="30" width="40" /></a>
