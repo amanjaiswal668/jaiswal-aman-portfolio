@@ -17,7 +17,7 @@ const Menu = () => (
         <p> <a href="#article">Projects</a></p>
         <p> <a href="#about">About</a></p>
         <p> <a href="#contact">Contact</a></p>
-        <p> <a target = "_blank"href="https://www.dropbox.com/s/2ojkga024fe49c2/JaiswalAmanResume.pdf.pdf?dl=0">Resume</a></p>
+        <p> <a target = "_blank"href="https://www.dropbox.com/s/6ptas0nd6kf88lp/jaiswalAmanReaume_v1.pdf?dl=0">Resume</a></p>
     </>
 )
 
